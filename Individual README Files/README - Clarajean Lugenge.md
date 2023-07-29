@@ -1,0 +1,4 @@
+Project-1-group-3 - Number of Employers in each District in Toronto
+
+This part of the project was done by Clarajean Lugenge with reviews of Carson Moore, Stephen Fernandes and Gurpal Gill. The process involved 
+using a dataset in the form of a CSV file, which holds the number of employers per district and to clean and organize it in a way that an analysis can be done. The cleaning process involved using code which uses the number of employers, number of educated people and the districts of Toronto to make an easy-to-understand bar graph and pie charts showing the distribution of number of employers in each district of Toronto and how many times the number of educated people is greater than the number of employers, in order to solve the question of which district in the city of Toronto has more or less chances of job opportunities.
