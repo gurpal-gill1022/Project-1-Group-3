@@ -1,4 +1,4 @@
-# Project-1-group-3 - Toronto District Comparison
+# Project-1-group-3: Toronto District Comparison
 
 Which District in Toronto is the best District to live in?
 The main purpose of the project is to help us and other future home buyers on what main factors to analyze in deciding on which district to live in the city of Toronto.
