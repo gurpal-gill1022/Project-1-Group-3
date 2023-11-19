@@ -29,7 +29,6 @@ The real estate market has been a relevant topic in the economy for the past ten
 3. matplotlib.pyplot
 4. scipy.stats
 5. numpy
-6. scipy.stats
 
 ## Programs/Languages
 1. Python
