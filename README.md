@@ -1,4 +1,4 @@
-# Project-1-group-3: Toronto District Comparison
+# Project-1-Group-3: Toronto District Comparison
 
 ## Project Description
 Which District in Toronto is the best District to live in?
